@@ -1,0 +1,36 @@
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
+
+# Virtual Environment
+movienv/
+venv/
+env/
+
+# Environment variables (API keys)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Model artifacts
+artifacts/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
